@@ -1,0 +1,23 @@
+{
+  "name": "pagetransitions",
+  "version": "0.1.3",
+  "description": "PageTransitions",
+  "license": "MIT",
+  "main": "app/pagetransitions.js",
+  "repository": "michalkow/node-PageTransitions",
+  "author": {
+    "name": "Michał Kowalkowski",
+    "email": "kowalkowski.michal@gmail.com",
+    "url": "https://github.com/michalkow"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "PageTransitions"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "browsernizr": "~1.0.2"
+  }
+}

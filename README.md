@@ -1,4 +1,4 @@
 node-PageTransitions
 ====================
 
-PageTransitions for use with browserify
+[PageTransitions](https://github.com/codrops/PageTransitions) for use with browserify
