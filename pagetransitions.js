@@ -3,6 +3,7 @@ require('browsernizr');
 
 var PageTransitions = function(options) {
 	var self = this;
+	if(!options) options = {};
 	self.main = options.main || '#pt-main';
 	self.$main = $( self.main );
 	self.pages = options.pages || 'div.pt-page';

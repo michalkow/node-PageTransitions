@@ -1,6 +1,6 @@
 {
   "name": "pagetransitions",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "PageTransitions",
   "license": "MIT",
   "main": "app/pagetransitions.js",
